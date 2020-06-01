@@ -1,2 +1,2 @@
 # June-LeetCoding-Challenge
-June LeetCoding Challenge is a month long challenge organised by Leetcode. This repository consists solution of the 30 coding problems uploaded over the month of June.
+[June LeetCoding Challenge](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/) is a month long challenge organised by [Leetcode](https://leetcode.com/). This repository consists solution of the 30 coding problems uploaded over each day of June month.
