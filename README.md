@@ -23,3 +23,8 @@ Explanation: You are given the third node with value 1, the linked list should b
 ```
 ![Day-02b Problem](../assets/Day-02b.png?raw=true)
 ### [Solution](https://github.com/yashrt/June-LeetCoding-Challenge/blob/master/Day-02.cpp)
+
+## Day-03 [Two City Scheduling](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3349/)
+Problem Description :
+![Day-03 Problem](../assets/Day-03.png?raw=true)
+### [Solution](https://github.com/yashrt/June-LeetCoding-Challenge/blob/master/Day-03.cpp)
