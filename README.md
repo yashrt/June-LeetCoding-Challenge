@@ -33,3 +33,8 @@ Problem Description :
 Problem Description :
 ![Day-04 Problem](../assets/Day-04.png?raw=true)
 ### [Solution](https://github.com/yashrt/June-LeetCoding-Challenge/blob/master/Day-04.cpp)
+
+## Day-05 [Random Pick with Weight](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3351/)
+Problem Description :
+![Day-05 Problem](../assets/Day-05.png?raw=true)
+### [Solution](https://github.com/yashrt/June-LeetCoding-Challenge/blob/master/Day-05.cpp)
