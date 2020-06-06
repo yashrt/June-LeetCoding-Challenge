@@ -38,3 +38,8 @@ Problem Description :
 Problem Description :
 ![Day-05 Problem](../assets/Day-05.png?raw=true)
 ### [Solution](https://github.com/yashrt/June-LeetCoding-Challenge/blob/master/Day-05.cpp)
+
+## Day-06 [Queue Reconstruction by Height](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3352/)
+Problem Description :
+![Day-06 Problem](../assets/Day-06.png?raw=true)
+### [Solution](https://github.com/yashrt/June-LeetCoding-Challenge/blob/master/Day-06.cpp)
