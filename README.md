@@ -49,3 +49,8 @@ Problem Description :
 ![Day-07a Problem](../assets/Day-07a.png?raw=true)
 ![Day-07b Problem](../assets/Day-07b.png?raw=true)
 ### [Solution](https://github.com/yashrt/June-LeetCoding-Challenge/blob/master/Day-07.cpp)
+
+## Day-08 [Power of Two](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3354/)
+Problem Description :
+![Day-08 Problem](../assets/Day-08.png?raw=true)
+### [Solution](https://github.com/yashrt/June-LeetCoding-Challenge/blob/master/Day-08.cpp)
