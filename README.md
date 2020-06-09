@@ -54,3 +54,8 @@ Problem Description :
 Problem Description :
 ![Day-08 Problem](../assets/Day-08.png?raw=true)
 ### [Solution](https://github.com/yashrt/June-LeetCoding-Challenge/blob/master/Day-08.cpp)
+
+## Day-09 [Is Subsequence](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3355/)
+Problem Description :
+![Day-09 Problem](../assets/Day-09.png?raw=true)
+### [Solution](https://github.com/yashrt/June-LeetCoding-Challenge/blob/master/Day-09.cpp)
