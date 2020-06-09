@@ -57,5 +57,6 @@ Problem Description :
 
 ## Day-09 [Is Subsequence](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3355/)
 Problem Description :
-![Day-09 Problem](../assets/Day-09.png?raw=true)
+![Day-09a Problem](../assets/Day-09a.png?raw=true)
+![Day-09b Problem](../assets/Day-09b.png?raw=true)
 ### [Solution](https://github.com/yashrt/June-LeetCoding-Challenge/blob/master/Day-09.cpp)
