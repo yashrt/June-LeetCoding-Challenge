@@ -63,8 +63,7 @@ Problem Description :
 
 ## Day-10 [Is Subsequence](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3355/)
 Problem Description :
-![Day-10a Problem](../assets/Day-10a.png?raw=true)
-![Day-10b Problem](../assets/Day-10b.png?raw=true)
+![Day-10 Problem](../assets/Day-10.png?raw=true)
 ### [Solution](https://github.com/yashrt/June-LeetCoding-Challenge/blob/master/Day-10.cpp)
 
 ## Day-11 [Sort Colors](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3357/)
