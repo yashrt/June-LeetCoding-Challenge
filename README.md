@@ -70,3 +70,17 @@ Problem Description :
 Problem Description :
 ![Day-11 Problem](../assets/Day-11.png?raw=true)
 ### [Solution](https://github.com/yashrt/June-LeetCoding-Challenge/blob/master/Day-11.cpp)
+
+
+
+
+
+
+
+
+
+
+## Day-15 [Search in a Binary Search Tree](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3361/)
+Problem Description :
+![Day-15 Problem](../assets/Day-15.png?raw=true)
+### [Solution](https://github.com/yashrt/June-LeetCoding-Challenge/blob/master/Day-15.cpp)
